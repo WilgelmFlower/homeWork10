@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  homeWork10
-//
-//  Created by Mark Wilhelm on 01.05.2022.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -14,6 +7,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func setupView () {
+        view.backgroundColor = .systemRed
+    }
 
 }
 

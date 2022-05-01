@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  homeWork10
-//
-//  Created by Mark Wilhelm on 01.05.2022.
-//
-
 import UIKit
 
 @main
